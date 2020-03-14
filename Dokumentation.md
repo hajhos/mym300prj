@@ -2,8 +2,10 @@
 ___
 
 `Projekt: M300/ LB2`
-<b> `Autor: Hajar Hoseyni` </b>
+`Autor: Hajar Hoseyni`
 `Datum: 14.03.2020`
+|   |   |   |   |   |
+|   |   |   |   |   |
 
 ### Inhaltsverzeichnis
 - Websevrer
