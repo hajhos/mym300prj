@@ -7,14 +7,14 @@ ___
 
 1. [Webserver](#Webserver)
 2. [mbdb](#mbdb)
-## My first title
-Some text.
-## My second title
+## Webserver
+``` 
+cd c:/Users/hajar/mym300prj 
+vagrant up 
+ 
+ ```
+## mdbd
 
-
-|Autor: Hajar Hoseyni        |Datum: 14.03.2020           |
-|:---------------------------|:---------------------------|
-|Modul 300/ LB2              |Projekts: Web-Sever, MMBD   |
 
 
 
@@ -22,11 +22,7 @@ Some text.
 #### 2. In dem Verzeichnis Gitbash starten.
 >   
 
-``` 
-cd c:/Users/hajar/mym300prj 
-vagrant up 
- 
- ```
+
 
 #### 3. Der Virtual Box wird gestartet. 
 #### 4. Der Webserver ist mit dem Adresse http://localhost:8080 vorhanden.
