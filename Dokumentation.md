@@ -27,7 +27,7 @@ git clone git@github.com:hajhos/mym300prj.git
 - Auf diesem Verzeichnis **Gitbash** starten.
 ___
 ### Webserver
-+-------------------------------------+
+-------------------------------------
 ! Notebook                            !
 ! Schulnetz 10.x.x.x (DHCP)           !
 ! Privates Netz 192.168.55.x (DHCP)   !           
