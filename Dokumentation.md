@@ -5,7 +5,9 @@ Modul: 300 /LB2                                              Repository: hajhos/
 Version: 1
 ```
 ## Inhalt
-1. [Vorbereitung](#Vorbereitung)
+1. [Einleitung](#Einleitung)
+2. [Definition](#Definition)
+2. [Vorbereitung](#Vorbereitung)
 2. [Webserver](#Webserver)
 3. [mbdb](#mbdb)
 4. [Test](#Test)
