@@ -13,7 +13,10 @@ Version: 1
 6. [Quellen](#Quellen)
 ___
 ### Einleitung
-Mit diesem Dokument wird man erfahren, wie man ein Die ein **Webserver** oder ein **Multi Machine DB** mit **Vagrant** in ein Netzwerk integrieren kann. Dabei wird man erfahren, wie man diese auf dem Github-Repository pushen kann. 
+Mit diesem Dokument wird man über untenstehende Themen erfahren.
+- Ein **Webserver** mit **Vagrant** in einem Netzwerk integrieren.
+- Ein **Multi Machine DB** mit Vagrant in einem Neetzwerk integrieren.
+- Die Dienste auf dem Github-Repository pushen. 
 ### Vorbereitung
 - Auf dem **Github** ein neuen Repository erstellen.
 - Der Repository auf dem lokalen Speicher clonen.
