@@ -25,4 +25,3 @@ vagrant up
 ## Test
 - [x] Beim Aufruf des URL wird der Apache-Defaultseite angezeigt.
 - [x] vagrantfile ist erfolgreich gepusht.
-- [x] 
