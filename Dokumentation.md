@@ -17,7 +17,7 @@ ___
 git clone git@github.com:hajhos/mym300prj.git
 ```
 - Auf diesem Verzeichnis **Gitbash** starten
-```
+
 
 ___
 ### Webserver
