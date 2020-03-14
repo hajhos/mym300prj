@@ -7,7 +7,7 @@ ___
 1. [Vorbereitung](#Vorbereitung)
 2. [Webserver](#Webserver)
 3. [mbdb](#mbdb)
-__
+___
 ### Vorbereitung
 
 ### Webserver
@@ -19,9 +19,9 @@ vagrant up
 ```
 - Der Virtual Box wird gestartet. 
 - Der Webserver ist mit dem Adresse http://localhost:8080 vorhanden.
-__
+___
 ### mdbd
-__
+___
 
 
 
