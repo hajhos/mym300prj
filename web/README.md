@@ -1,23 +1,22 @@
-Beispiel: einfacher Webserver
------------------------------
+ ## Webserver
+```
+*------------------------------------------------------------------------------*
+| Apache2                                                                      |
+| Virtualbox-6.1.2                                                             |
+| Schulnetz 10.x.x.x (DHCP)                                                    |
+| Privates Netz 192.168.55.x (DHCP)                                            |           
+| config.vm.network "forwarded_port", guest:80, host:59465, auto_correct: true |
+| memory: 1024                                                                 |
+*------------------------------------------------------------------------------*
+```
+- Der Webserver-Vagranfile lokal speichern.
+- Der Code nach eigene Anforderungen anpassen. 
+- Vagrant up
+``` 
+cd c:/Users/hajar/mym300prj 
+vagrant up 
+```
+- Die Dateien werden lokal auf dem Verzeichnis gespeichert.
 
-Einfacher Webserver mit Ubuntu 16.x.
-
-### Erstellen und Starten der VM 
-
-    cd web
-    vagrant up
- 
-Die Dateien werden lokal im aktuellen Verzeichnis abgelegt: 
-
-	config.vm.synced_folder ".", "/var/www/html"
-
-Der Webserver ist unter [http://localhost:8080](http://localhost:8080) erreichbar.
-
-    config.vm.network "forwarded_port", guest:80, host:8080, auto_correct: true
-	 
-Falls dieser belegt ist, wird automatisch eine Alternative gewählt.
-
-### Tests
-
-* `index.html` (Startdatei Apache Web Server) Datei in diesem Verzeichnis editieren und Änderungen via [http://localhost:8080](http://localhost:8080) überprüfen. 
+## Test
+- [x] Beim Aufruf des URL 
