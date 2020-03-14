@@ -33,7 +33,8 @@ ___
 ### Webserver
 ```
 *--------------------------------------*
-| Notebook                             |
+| Apache2                              |
+| Virtualbox-6.1.2                     |
 | Schulnetz 10.x.x.x (DHCP)            |
 | Privates Netz 192.168.55.x (DHCP)    |           
 | forwarded_port, guest:80, host:59465 |
@@ -41,14 +42,13 @@ ___
 *--------------------------------------*
 ```
 - Der Webserver-Vagranfile lokal speichern.
-- Der Code nach Bedarf anpassen.
- Auf dem 
+- Der Code nach Bedarf anpassen. 
 - Vagrant starten.
 ``` 
 cd c:/Users/hajar/mym300prj 
 vagrant up 
 ```
-- Die Weboberfläche auf dem Browser mit der URL http://localhost:59465 aufrufen.
+- http://localhost:59465 auf dem Browser aufrufen, um auf der Weboberfläche zuzugreifen.
 ___
 ### mmdb
 ___
