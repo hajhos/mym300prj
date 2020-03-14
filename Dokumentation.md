@@ -31,8 +31,8 @@ git clone git@github.com:hajhos/mym300prj.git
 - Auf diesem Verzeichnis **Gitbash** starten.
 ___
 ### Webserver
-
-
+Die Dokumentation ist unter folgenden Link vorhanden.
+https://github.com/hajhos/mym300prj/blob/master/web/README.md
 ___
 ### mmdb
 ___
