@@ -1,6 +1,5 @@
-```
-** VAGRANT DOKUMENTATION **
-```
+### VAGRANT DOKUMENTATION
+
 ```
 Autor: Hajar Hoseyni
 Datum: 14.03.2020
