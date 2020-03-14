@@ -7,11 +7,6 @@
 |Modul 300/ LB2                           |Projekts: Web-Sever, MMBD                |
 |-----------------------------------------|-----------------------------------------|
 
-```javascript
-var s = "JavaScript syntax highlighting";
-alert(s);
-```
-
 #### 1. Die Vagranfile lokal speichern. 
 #### 2. In dem Verzeichnis Gitbash starten.
 >   
