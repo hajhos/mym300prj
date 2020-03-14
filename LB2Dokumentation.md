@@ -37,9 +37,13 @@ ___
 ### mmdb
 ___
 ### Test
+[x] Die konfigurierte Dienste funktionieren.
+[x] Die Vagrantfiles sind erfolgreich auf dem Repository gepusht.
 ___
 ### Quellen
-
+- https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet
+- https://github.com/mc-b/M300/tree/master/vagrant/mmdb
+- M300-Lernmittels
 
 
 
