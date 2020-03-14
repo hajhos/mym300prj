@@ -7,21 +7,18 @@ ___
 1. [Webserver](#Webserver)
 2. [mbdb](#mbdb)
 ### Webserver
+- Die Vagranfile lokal speichern. 
+- In dem Verzeichnis Gitbash starten.
 ``` 
 cd c:/Users/hajar/mym300prj 
 vagrant up 
- 
- ```
+```
+- Der Virtual Box wird gestartet. 
+- Der Webserver ist mit dem Adresse http://localhost:8080 vorhanden.
+
 ### mdbd
 
 
 
 
-#### 1. Die Vagranfile lokal speichern. 
-#### 2. In dem Verzeichnis Gitbash starten.
->   
 
-
-
-#### 3. Der Virtual Box wird gestartet. 
-#### 4. Der Webserver ist mit dem Adresse http://localhost:8080 vorhanden.
