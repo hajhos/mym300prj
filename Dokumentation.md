@@ -58,7 +58,7 @@ vagrant up
 - Webserver lauft auf dem Virtualbox.
 - Die Weboberfläche ist unter der URL:**http://localhost:59465** erreichbar.
 
--- Test
+`Test`
 - [x] Beim Aufruf der URL wird der Apache-Defaultseite angezeigt.
 - [x] Vagrantfile ist erfolgreich auf dem Github-Repository gepusht.
 
