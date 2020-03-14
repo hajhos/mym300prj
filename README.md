@@ -7,11 +7,15 @@
 |Modul 300/ LB2                           |Projekts: Web-Sever, MMBD                |
 |-----------------------------------------|-----------------------------------------|
 
-<p style="text-align: center;">Centered text</p>
+```javascript
+var s = "JavaScript syntax highlighting";
+alert(s);
+```
 
 #### 1. Die Vagranfile lokal speichern. 
 #### 2. In dem Verzeichnis Gitbash starten.
->     
+>   
+
 ``` 
 cd c:/Users/hajar/mym300prj 
 vagrant up 
