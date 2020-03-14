@@ -4,8 +4,12 @@
 `Datum: 14.03.2020`
 ___
 ## Inhalt
-1. [Webserver](#Webserver)
-2. [mbdb](#mbdb)
+1. [Vorbereitung](#Vorbereitung)
+2. [Webserver](#Webserver)
+3. [mbdb](#mbdb)
+__
+### Vorbereitung
+
 ### Webserver
 - Die Vagranfile lokal speichern. 
 - In dem Verzeichnis Gitbash starten.
@@ -15,8 +19,9 @@ vagrant up
 ```
 - Der Virtual Box wird gestartet. 
 - Der Webserver ist mit dem Adresse http://localhost:8080 vorhanden.
-
+__
 ### mdbd
+__
 
 
 
