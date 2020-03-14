@@ -1,4 +1,4 @@
-## Platformübergreifende Dienste in ein Netzwerk integrieren
+# Platformübergreifende Dienste in ein Netzwerk integrieren
 ``` 
 Autor: Hajar Hoseyni                                         Datum: 14.03.2020
 Modul: 300 /LB2                                              Repository: hajhos/mym300prj
@@ -13,6 +13,7 @@ Version: 1
 6. [Quellen](#Quellen)
 ___
 ### Einleitung
+In diesem Dokuement geht es um 
 ### Vorbereitung
 - Auf dem **Github** ein neuen Repository erstellen.
 - Der Repository auf dem lokalen Speicher clonen.
