@@ -42,13 +42,13 @@ ___
 *--------------------------------------*
 ```
 - Der Webserver-Vagranfile lokal speichern.
-- Der Code nach Bedarf anpassen. 
+- Der Code nach eigene Anforderungen anpassen. 
 - Vagrant starten.
 ``` 
 cd c:/Users/hajar/mym300prj 
 vagrant up 
 ```
-- http://localhost:59465 auf dem Browser aufrufen, um auf der Weboberfläche zuzugreifen.
+- Der URL **http://localhost:59465** auf dem Browser aufrufen, um auf der Weboberfläche zuzugreifen.
 ___
 ### mmdb
 ___
