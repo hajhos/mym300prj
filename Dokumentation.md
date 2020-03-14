@@ -1,6 +1,5 @@
 ### VAGRANT DOKUMENTATION
-`Projekt: M300/ LB2 /b
-hljökhh`
+`Projekt: M300/ LB2`
 `Autor: Hajar Hoseyni`
 `Datum: 14.03.2020`
 ___
@@ -8,6 +7,14 @@ ___
 - Websevrer
 - mdbb
 ___
+# Table of Contents
+
+1. [My first title](#my-first-title)
+2. [My second title](#my-second-title)
+## My first title
+Some text.
+## My second title
+
 
 |Autor: Hajar Hoseyni        |Datum: 14.03.2020           |
 |:---------------------------|:---------------------------|
