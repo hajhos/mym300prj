@@ -1,6 +1,4 @@
-
-
-### -> VAGRANT DOKUMENTATIO <-
+-> VAGRANT DOKUMENTATIO <-
 ---
 #### 1. Die Vagranfile lokal speichern. 
 #### 2. In dem Verzeichnis Gitbash starten.
