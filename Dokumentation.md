@@ -1,7 +1,7 @@
 # VAGRANT DOKUMENTATION
 ``` 
-Modul: 300 /LB2                               Repository: hajhos/mym300prj
-Autor: Hajar Hoseyni                          Datum: 14.03.2020
+Modul: 300 /LB2                                           Repository: hajhos/mym300prj
+Autor: Hajar Hoseyni                                      Datum: 14.03.2020
 ```
 ## Inhalt
 1. [Vorbereitung](#Vorbereitung)
@@ -9,7 +9,11 @@ Autor: Hajar Hoseyni                          Datum: 14.03.2020
 3. [mbdb](#mbdb)
 ___
 ### Vorbereitung
-
+- Der Github-Repository auf dem lokalen Speicher clonen.
+```
+git clone 
+```
+- 
 ___
 ### Webserver
 - Die Vagranfile lokal speichern. 
