@@ -1,19 +1,18 @@
-### VAGRANT DOKUMENTATION
+# VAGRANT DOKUMENTATION
 `Projekt: M300/ LB2`
 `Autor: Hajar Hoseyni`
 `Datum: 14.03.2020`
 ___
-#### Table of Contents
-
+## Inhalt
 1. [Webserver](#Webserver)
 2. [mbdb](#mbdb)
-#### Webserver
+### Webserver
 ``` 
 cd c:/Users/hajar/mym300prj 
 vagrant up 
  
  ```
-#### mdbd
+### mdbd
 
 
 
