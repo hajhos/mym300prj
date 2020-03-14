@@ -13,12 +13,12 @@ Version: 1
 6. [Quellen](#Quellen)
 ___
 ### Vorbereitung
-- Der Github-Repository auf dem lokalen Speicher clonen.
+- Auf dem **Github** ein neuen Repository erstellen.
+- Der Repository auf dem lokalen Speicher clonen.
 ```
 git clone git@github.com:hajhos/mym300prj.git
 ```
 - Auf diesem Verzeichnis **Gitbash** starten
-- Der Vagrantfile editieren.
 ___
 ### Projekt1 Webserver
 - Die Vagranfile lokal speichern. 
