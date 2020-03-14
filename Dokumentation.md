@@ -1,12 +1,12 @@
 # Platformübergreifende Dienste in ein Netzwerk integrieren
 ``` 
-*-------------------------------------------------------------------------------------------*
-| Autor: Hajar Hoseyni                                         Datum: 14.03.2020            |
-|-------------------------------------------------------------------------------------------|
-| Modul: 300 /LB2                                              Repository: hajhos/mym300prj |
-|-------------------------------------------------------------------------------------------|
-| Version: 1                                                                                |
-*-------------------------------------------------------------------------------------------*
+*----------------------------------------------------------------------------*
+| Autor: Hajar Hoseyni                          Datum: 14.03.2020            |
+|----------------------------------------------------------------------------|
+| Modul: 300 /LB2                               Repository: hajhos/mym300prj |
+|----------------------------------------------------------------------------|
+| Version: 1                                                                 |
+*----------------------------------------------------------------------------*
 ```
 ## Inhalt
 1. [Einleitung](#Einleitung)
@@ -31,14 +31,15 @@ git clone git@github.com:hajhos/mym300prj.git
 - Auf diesem Verzeichnis **Gitbash** starten.
 ___
 ### Webserver
--------------------------------------
-! Notebook                            !
-! Schulnetz 10.x.x.x (DHCP)           !
-! Privates Netz 192.168.55.x (DHCP)   !           
-! forwarded_port, guest:80, host:59465!
-! memory: 1024                        !
-+-------------------------------------+
-
+```
+*--------------------------------------*
+| Notebook                             |
+| Schulnetz 10.x.x.x (DHCP)            |
+| Privates Netz 192.168.55.x (DHCP)    |           
+| forwarded_port, guest:80, host:59465 |
+| memory: 1024                         |
+*--------------------------------------*
+```
 - Der Webserver-Vagranfile lokal speichern.
 - Der Code nach Bedarf anpassen.
  Auf dem 
