@@ -4,7 +4,7 @@
 |  Autor: Hajar Hoseyni  | Datum: 14.03.2020   |
 |-----------------------------------------|-----------------------------------------|
 
-|  Modul 300/ LB2 |   Projekts: Web-Sever, MMBD |
+|  Modul 300/ LB2                         |   Projekts: Web-Sever, MMBD             |
 |-----------------------------------------|-----------------------------------------|
 
 <p style="text-align: center;">Centered text</p>
