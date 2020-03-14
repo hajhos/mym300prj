@@ -3,14 +3,10 @@
 `Autor: Hajar Hoseyni`
 `Datum: 14.03.2020`
 ___
-### Inhaltsverzeichnis
-- Websevrer
-- mdbb
-___
 # Table of Contents
 
-1. [My first title](#my-first-title)
-2. [My second title](#my-second-title)
+1. [Webserver](#Webserver)
+2. [mbdb](#mbdb)
 ## My first title
 Some text.
 ## My second title
