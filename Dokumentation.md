@@ -20,17 +20,17 @@ git clone git@github.com:hajhos/mym300prj.git
 ```
 - Auf diesem Verzeichnis **Gitbash** starten
 ___
-### Projekt1 Webserver
-- Die Vagranfile lokal speichern. 
-- In dem Verzeichnis Gitbash starten.
+### Projekt1: Webserver
+- Der Vagranfile lokal speichern.
+- 
 ``` 
 cd c:/Users/hajar/mym300prj 
 vagrant up 
 ```
-- Der Virtual Box wird gestartet. 
-- Der Webserver ist mit dem Adresse http://localhost:8080 vorhanden.
+- Der Virtualbox wird gestartet. 
+- Die Weboberfläche ist nuun unter der Adresse http://localhost:8080 vorhanden.
 ___
-### Projekt2 mdbd
+### Projekt2: mdbd
 ___
 ### Test
 ___
