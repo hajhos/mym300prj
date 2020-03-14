@@ -8,10 +8,11 @@ Version: 1
 1. [Einleitung](#Einleitung)
 2. [Vorbereitung](#Vorbereitung)
 3. [Webserver](#Webserver)
-4. [mbdb](#mbdb)
+4. [mmdb](#mmdb)
 5. [Test](#Test)
 6. [Quellen](#Quellen)
 ___
+### Einleitung
 ### Vorbereitung
 - Auf dem **Github** ein neuen Repository erstellen.
 - Der Repository auf dem lokalen Speicher clonen.
@@ -20,7 +21,7 @@ git clone git@github.com:hajhos/mym300prj.git
 ```
 - Auf diesem Verzeichnis **Gitbash** starten
 ___
-### Projekt1: Webserver
+### Webserver
 - Der WebserverVagranfile lokal speichern.
 - 
 ``` 
@@ -30,7 +31,7 @@ vagrant up
 - Der Virtualbox wird gestartet. 
 - Die Weboberfläche ist nun unter der Adresse http://localhost:59465 vorhanden.
 ___
-### Projekt2: mdbd
+### mmdb
 ___
 ### Test
 ___
