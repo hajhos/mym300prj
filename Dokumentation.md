@@ -4,7 +4,6 @@ Projekt: M300/ LB2
 Autor: Hajar Hoseyni
 Datum: 14.03.2020
 ```
-___
 ## Inhalt
 1. [Vorbereitung](#Vorbereitung)
 2. [Webserver](#Webserver)
