@@ -6,12 +6,11 @@ Version: 1
 ```
 ## Inhalt
 1. [Einleitung](#Einleitung)
-2. [Definition](#Definition)
 2. [Vorbereitung](#Vorbereitung)
-2. [Webserver](#Webserver)
-3. [mbdb](#mbdb)
-4. [Test](#Test)
-5. [Quellen](#Quellen)
+3. [Webserver](#Webserver)
+4. [mbdb](#mbdb)
+5. [Test](#Test)
+6. [Quellen](#Quellen)
 ___
 ### Vorbereitung
 - Der Github-Repository auf dem lokalen Speicher clonen.
@@ -19,8 +18,7 @@ ___
 git clone git@github.com:hajhos/mym300prj.git
 ```
 - Auf diesem Verzeichnis **Gitbash** starten
-
-
+- Der Vagrantfile editieren.
 ___
 ### Webserver
 - Die Vagranfile lokal speichern. 
