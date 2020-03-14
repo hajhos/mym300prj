@@ -1,9 +1,9 @@
 ### VAGRANT DOKUMENTATION
 ---
 
-|Autor: Hajar Hoseyni                     |Datum: 14.03.2020                        |
-|:----------------------------------------|:----------------------------------------|
-|Modul 300/ LB2                           |Projekts: Web-Sever, MMBD                |
+|Autor: Hajar Hoseyni        |Datum: 14.03.2020           |
+|:---------------------------|:---------------------------|
+|Modul 300/ LB2              |Projekts: Web-Sever, MMBD   |
 
 | Syntax      | Description | Test Text     |
 | :---        |    :----:   |          ---: |
