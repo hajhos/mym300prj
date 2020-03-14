@@ -1,6 +1,6 @@
 Vagrant.configure(2) do |config|
   config.vm.box = "ubuntu/xenial64"
-  config.vm.network "forwarded_port", guest:80, host:5646, auto_correct: true
+  config.vm.network "forwarded_port", guest:80, host:59465, auto_correct: true
   config.vm.synced_folder ".", "/var/www/html"  
 config.vm.provider "virtualbox" do |vb|
   vb.memory = "1024"  
