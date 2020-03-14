@@ -11,7 +11,7 @@ ___
 ### Vorbereitung
 - Der Github-Repository auf dem lokalen Speicher clonen.
 ```
-git clone 
+git clone git@github.com:hajhos/mym300prj.git
 ```
 - 
 ___
