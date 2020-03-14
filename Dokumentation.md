@@ -1,6 +1,6 @@
 ### VAGRANT DOKUMENTATION
 ---
-sf
+.element: style="width:50%; float:right;"
 |Autor: Hajar Hoseyni        |Datum: 14.03.2020           |
 |:---------------------------|:---------------------------|
 |Modul 300/ LB2              |Projekts: Web-Sever, MMBD   |
