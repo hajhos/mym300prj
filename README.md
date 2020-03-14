@@ -1,6 +1,5 @@
 # VAGRANT DOKUMENTATION<br/>
-
----
+---<br/>
 
 # Inhalt
 ## Web-server Ubuntu
