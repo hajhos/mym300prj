@@ -1,11 +1,7 @@
 -> VAGRANT DOKUMENTATIO <-
 ---
 
-<div class="myWrapper" markdown="1">
-# my markdown content
-
-this content is wrapped into a div with class "myWrapper"
-</div
+<p style="text-align: center;">Centered text</p>
 
 #### 1. Die Vagranfile lokal speichern. 
 #### 2. In dem Verzeichnis Gitbash starten.
