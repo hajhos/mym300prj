@@ -2,7 +2,7 @@
 
 ------------------------
 
-# mym300prj
+# Inhalt
 ## Web-server Ubuntu
 #### 1. Die Vagranfile lokal speichern. 
 #### 2. In dem Verzeichnis Gitbash starten.
