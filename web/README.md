@@ -32,5 +32,5 @@ vagrant up
 - [x] Beim Aufruf der URL wird der Apache-Defaultseite angezeigt.
 - [x] Vagrantfile ist erfolgreich auf dem Github-Repository gepusht.
 
-Zurück zur LB2Dokumentation:
-https://github.com/hajhos/mym300prj/blob/master/LB2Dokumentation.md
+
+##### Zurück zur LB2Dokumentation: https://github.com/hajhos/mym300prj/blob/master/LB2Dokumentation.md
