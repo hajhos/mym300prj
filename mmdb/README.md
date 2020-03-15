@@ -8,7 +8,7 @@
 |	
 ```
 
-|   NET-ID: 192.168.2.0  |
+|   NET-ID: 192.168.2.0 |dfsg |
 |------------|------------|------------|
 |  Server    |Web-Server: apache2 |DB-Sever: mysql |
 | Hostname   |lb2web              |lb2db           |
