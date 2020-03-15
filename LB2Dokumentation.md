@@ -18,8 +18,8 @@
 ___
 ### Einleitung
 Mit diesem Dokument wird man über untenstehende Themen erfahren.
-- Ein **Webserver** mit **Vagrant** in einem Netzwerk integrieren.
-- Ein **Multi Machine DB** mit Vagrant in einem Netzwerk integrieren.
+- Ein **Webserver** mit **Vagrant** in ein Netzwerk integrieren.
+- Ein **Multi Machine DB** mit Vagrant in ein Netzwerk integrieren.
 - Die Dienste auf dem Github-Repository pushen. 
 ___
 ### Vorbereitung
