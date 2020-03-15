@@ -6,7 +6,7 @@
 | Port: 8080 (192.168.2.201:80)                                |
 | Virtualbox-6.1.2                                             |
 |	
-	    -
+```	    -
      |   NET-ID: 192.168.2.0  |
      |------------|------------|------------|
      |  Server    |Web-Server: apache2 |DB-Sever: mysql |
@@ -19,7 +19,7 @@
 | forwarded_port, guest:80, host:59465 |
 | memory: 1024                         |
 *--------------------------------------*
-```
+
 - Der Webserver-Vagranfile lokal speichern.
 - Der Code nach eigene Anforderungen anpassen. 
 ```
