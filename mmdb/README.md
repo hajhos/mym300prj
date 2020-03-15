@@ -38,6 +38,7 @@ vagrant up
 ![](eingelogt.JPG)
 
 - **Vagrantfile**, **Readme.md** , **Fotos**, **.gitignore** und **db.sh** auf dem Github-Repository pushen.
+
 `Test`
 - [x] Beim Aufruf der URL wird der Adminer.php loginseite angezeigt.
 - [x] **Vagrantfile**, **Readme.md**, **Fotos**, **.gitignore** und **db.sh** erfolgreich auf dem Github-Repository gepusht.
