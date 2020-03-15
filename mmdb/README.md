@@ -24,7 +24,7 @@
 
 
 
-| fgh  | fghfh  |ffghfh   |
+| NetzID  ffghfh   |
 |---|---|---|
 | fhfh  |fhfh   |fghfh   |
 
