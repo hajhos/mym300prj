@@ -5,31 +5,12 @@
 | Notebook, Homenetz 192.168.1.0 und Privates Netz 192.168.2.0 |                 
 | Port: 8080 (192.168.2.201:80)                                |
 | Virtualbox-6.1.2                                             |
-|	
+*--------------------------------------------------------------*	
 ```
-
-|   NET-ID: 192.168.2.0 |dfsg |
-|------------|------------|------------|
-|  Server    |Web-Server: apache2 |DB-Sever: mysql |
-| Hostname   |lb2web              |lb2db           |
-     
-   
-     
-| Schulnetz 10.x.x.x (DHCP)            |
-| Privates Netz 192.168.55.x (DHCP)    |           
-| forwarded_port, guest:80, host:59465 |
-| memory: 1024                         |
-*--------------------------------------*
-
-
-
-
-| NetzID  ffghfh   |
-|---|---|---|
-| fhfh  |fhfh   |fghfh   |
-
-
-
+| Server              | Hostname            | IP-Adresse          | Netz                | Port                |
+|:--------------------|:--------------------|:--------------------|:--------------------|:--------------------|
+| Web-Server: apache2 | lb2web              | 192.168.2.201       | NAT: 80             | 8080                |
+| DB-Server: mysql    | lb2db               | 192.168.2.200       | Bridged             | 3306                |
 
 - Der Webserver-Vagranfile lokal speichern.
 - Der Code nach eigene Anforderungen anpassen. 
