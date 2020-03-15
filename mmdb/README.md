@@ -2,7 +2,9 @@
 
 ```
 *--------------------------------------------------------------*
-| Notebook, Homenetz 192.168.1.0 und Privates Netz 192.168.2.0 |                 
+| Notebook                                                     |
+| Homenetz: 192.168.1.0                                        |
+| Privates Netz: 192.168.2.0                                   |                 
 | Port: 8080 (192.168.2.201:80)                                |
 | Virtualbox-6.1.2                                             |
 *--------------------------------------------------------------*	
@@ -12,22 +14,18 @@
 | Web-Server: apache2 | lb2web              | 192.168.2.201       | NAT: 80             | 8080                |
 | DB-Server: mysql    | lb2db               | 192.168.2.200       | Bridged             | 3306                |
 
-- Der Webserver-Vagranfile lokal speichern.
+- Der mmdb-Vagranfile lokal speichern.
 - Der Code nach eigene Anforderungen anpassen. 
-```
-*------------------------------------------------------------------------------*
-| config.vm.network "forwarded_port", guest:80, host:59465, auto_correct: true |
-| memory: 1024                                                                 |
-*------------------------------------------------------------------------------*
-````
-- Vagrant starten.
+- Beim IP-Anpassungen muss diese Änderung auf dem **db.sh** auch eingetragen werden.
+- Die Änderungen speichern. (auf vim -> :wq)
+- Vagrant up
 ``` 
-cd c:/Users/hajar/mym300prj 
+cd c:/Users/hajar/mym300prj/mmdb 
 vagrant up 
 ```
-- Die Dateien werden lokal auf dem Verzeichnis gespeichert.
-- Webserver lauft auf dem Virtualbox.
-- Die Weboberfläche ist unter der URL:**http://localhost:59465** erreichbar.
+- Die Dateien werden lokal gespeichert.
+- Web-Server und DB-Server laufen auf dem Virtualbox.
+- 
 
 `Test`
 - [x] Beim Aufruf der URL wird der Apache-Defaultseite angezeigt.
