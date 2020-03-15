@@ -29,6 +29,8 @@ vagrant up
 - Web-Server und DB-Server laufen auf dem Virtualbox.
 - Zugriff auf dem Weboberfläche für Mysql-User ist wie folgt:
 - ist via **http://localhost:8080/adminer.php**
+`Username: User`
+`Password: admin`
 **LOGIN-ANGABE:**
 ![](login.JPG)
 
