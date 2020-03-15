@@ -31,7 +31,7 @@ vagrant up
 **LOGIN-ANGABE:**
 ![](login.JPG)
 
-![](eingeogt.JPG)
+![](eingelogt.JPG)
 
 `Test`
 - [x] Beim Aufruf der URL wird der Adminer.php loginseite angezeigt.
