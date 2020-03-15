@@ -27,11 +27,11 @@ vagrant up
 - Webserver lauft auf dem Virtualbox.
 - Die Weboberfläche ist unter der URL:**http://localhost:59465** erreichbar.
 ![](defaultpage.JPG)
-- **Vagrantfile**, **Readme.md** und **.gitignore** auf dem Github-Repository pushen.
+- **Vagrantfile**, **Readme.md**, **Foto** und **.gitignore** auf dem Github-Repository pushen.
 
 `Test`
 - [x] Beim Aufruf der URL wird der Apache-Defaultseite angezeigt.
-- [x] Vagrantfile ist erfolgreich auf dem Github-Repository gepusht.
+- [x] **Vagrantfile**, **Readme.md**, **Foto** und **.gitignore** sind erfolgreich auf dem Github-Repository gepusht.
 
 
 ##### Zurück zur LB2Dokumentation: https://github.com/hajhos/mym300prj/blob/master/LB2Dokumentation.md
