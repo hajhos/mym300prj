@@ -20,12 +20,13 @@
 ````
 - Vagrant starten.
 ``` 
-cd c:/Users/hajar/mym300prj 
+cd c:/Users/hajar/mym300prj/web 
 vagrant up 
 ```
 - Die Dateien werden lokal auf dem Verzeichnis gespeichert.
 - Webserver lauft auf dem Virtualbox.
 - Die Weboberfläche ist unter der URL:**http://localhost:59465** erreichbar.
+- **Vagrantfile**, **Readme.md** und **.gitignore** auf dem Github-Repository pushen.
 
 `Test`
 - [x] Beim Aufruf der URL wird der Apache-Defaultseite angezeigt.
