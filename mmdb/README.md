@@ -23,9 +23,8 @@
 cd c:/Users/hajar/mym300prj/mmdb 
 vagrant up 
 ```
-- Die Dateien werden lokal gespeichert.
+- **Vagrant** sucht im Internet nach aufgerufene Dienst. NAchher werden die Dateien local speichern.
 - Web-Server und DB-Server laufen auf dem Virtualbox.
-- 
 
 `Test`
 - [x] Beim Aufruf der URL wird der Apache-Defaultseite angezeigt.
