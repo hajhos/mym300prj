@@ -6,11 +6,12 @@
 | Port: 8080 (192.168.2.201:80)                                |
 | Virtualbox-6.1.2                                             |
 |	
-```	    -
-     |   NET-ID: 192.168.2.0  |
-     |------------|------------|------------|
-     |  Server    |Web-Server: apache2 |DB-Sever: mysql |
-     | Hostname   |lb2web              |lb2db           |
+```
+
+|   NET-ID: 192.168.2.0  |
+|------------|------------|------------|
+|  Server    |Web-Server: apache2 |DB-Sever: mysql |
+| Hostname   |lb2web              |lb2db           |
      
    
      
