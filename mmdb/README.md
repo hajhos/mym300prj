@@ -30,9 +30,7 @@ vagrant up
 - Zugriff auf dem Weboberfläche für Mysql-User ist wie folgt:
 - ist via **http://localhost:8080/adminer.php**
 
-`Username: User` `Password: admin`
-
-**LOGIN-ANGABE:**
+**LOGIN-ANGABE:**  `Username: User` `Password: admin`
 
 ![](login.JPG)
 
