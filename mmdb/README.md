@@ -28,17 +28,14 @@ vagrant up
 - Web-Server und DB-Server laufen auf dem Virtualbox.
 - Zugriff auf dem Weboberfläche für Mysql-User ist wie folgt:
 - ist via **http://localhost:8080/adminer.php**
-```
+**LOGIN-ANGABE:**
 ![](login.JPG)
-```
-```
-![](eingeogt.JPG)
-```
 
+![](eingeogt.JPG)
 
 `Test`
-- [x] Beim Aufruf der URL wird der Apache-Defaultseite angezeigt.
-- [x] Vagrantfile ist erfolgreich auf dem Github-Repository gepusht.
+- [x] Beim Aufruf der URL wird der Adminer.php loginseite angezeigt.
+- [x] **Vagrantfile**, **Fotos**, **.gitignore** und **db.sh** erfolgreich auf dem Github-Repository gepusht.
 
 
 
