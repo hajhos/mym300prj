@@ -26,7 +26,7 @@ vagrant up
 - Die Dateien werden lokal auf dem Verzeichnis gespeichert.
 - Webserver lauft auf dem Virtualbox.
 - Die Weboberfläche ist unter der URL:**http://localhost:59465** erreichbar.
-![](default page.JPG)
+![](defaultpage.JPG)
 - **Vagrantfile**, **Readme.md** und **.gitignore** auf dem Github-Repository pushen.
 
 `Test`
