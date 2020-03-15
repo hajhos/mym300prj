@@ -37,8 +37,9 @@ vagrant up
 
 ![](eingelogt.JPG)
 
+- **Vagrantfile**, **Readme.md** , **Fotos**, **.gitignore** und **db.sh** auf dem Github-Repository pushen.
 `Test`
 - [x] Beim Aufruf der URL wird der Adminer.php loginseite angezeigt.
-- [x] **Vagrantfile**, **Fotos**, **.gitignore** und **db.sh** erfolgreich auf dem Github-Repository gepusht.
+- [x] **Vagrantfile**, **Readme.md**, **Fotos**, **.gitignore** und **db.sh** erfolgreich auf dem Github-Repository gepusht.
 
 ##### Zurück zur LB2Dokumentation: https://github.com/hajhos/mym300prj/blob/master/LB2Dokumentation.md
